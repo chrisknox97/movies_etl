@@ -74,7 +74,8 @@ The Python script written for this deliverable can be accessed [here](https://gi
 
 ![Deliverable4C](https://github.com/chrisknox97/movies_etl/blob/main/PNGS-Deliverable%204/row_count_ratings.png)
 
-The Python script written for this deliverable can be accessed [here](https://github.com/chrisknox97/movies_etl/blob/main/Deliverable%20Four/ETL_Create_Database.ipynb)
+The Python script written for this deliverable can be accessed [here](https://github.com/chrisknox97/movies_etl/blob/main/Deliverable%20Four/ETL_Create_Database.ipynb).
 
 ## Summary
 
+Extracting, Transforming, and Loading Data (ETL) is an important process to automate and update valueable information reguarly. 
