@@ -46,6 +46,18 @@ The Python script written for this deliverable can be accessed [here](https://gi
 
 ### Deliverable 3
 
+#### Completion of the third deliverable created the ``movies_df`` and the ``movies_with_ratings_df`` as seen below:
+
+* Movies with Ratings DataFrame
+
+![Deliverable3A](https://github.com/chrisknox97/movies_etl/blob/main/PNGS-%20Deliverable%203/movies_with_ratings_df.png)
+
+* Movies DataFrame
+
+![Deliverable3B](https://github.com/chrisknox97/movies_etl/blob/main/PNGS-%20Deliverable%203/movies_df.png
+
+The Python script written for this deliverable can be accessed [here](https://github.com/chrisknox97/movies_etl/blob/main/Deliverable%20Three/ETL_Clean_Kaggle_Data.ipynb)
+
 ### Deliverable 4
 
 ## Summary
