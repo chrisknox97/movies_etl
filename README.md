@@ -18,7 +18,7 @@
 
 * Wiki Movies DataFrame
 
-![Deliverable1A](https://github.com/chrisknox97/movies_etl/blob/main/PNGS-%20Deliverable%201/wiki_movies_df.png)
+<img align="right" src="https://github.com/chrisknox97/movies_etl/blob/main/PNGS-%20Deliverable%201/wiki_movies_df.png" height="300">
 
 * Kaggle Metadata DataFrame
 
