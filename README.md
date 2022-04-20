@@ -78,4 +78,4 @@ The Python script written for this deliverable can be accessed [here](https://gi
 
 ## Summary
 
-Extracting, Transforming, and Loading Data (ETL) is an important process to automate and update valueable information reguarly. 
+### Extracting, Transforming, and Loading Data (ETL) is an important process to automate and update valueable information reguarly. 
