@@ -14,6 +14,20 @@
 
 ### Deliverable 1
 
+#### Completion of the first deliverable resulted in the creation of the three Pandas DataFrames shown below:
+
+* Wiki Movies DataFrame
+
+![Deliverable1A](https://github.com/chrisknox97/movies_etl/blob/main/PNGS-%20Deliverable%201/wiki_movies_df.png)
+
+* Kaggle Metadata DataFrame
+
+![Deliverable1B](https://github.com/chrisknox97/movies_etl/blob/main/PNGS-%20Deliverable%201/kaggle_df.png)
+
+* Movie Lens DataFrame
+
+![Deliverable1C](https://github.com/chrisknox97/movies_etl/blob/main/PNGS-%20Deliverable%201/ratings_df.png)
+
 ### Deliverable 2
 
 ### Deliverable 3
