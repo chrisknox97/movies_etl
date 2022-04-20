@@ -66,11 +66,11 @@ The Python script written for this deliverable can be accessed [here](https://gi
 
 ![Deliverable4A](https://github.com/chrisknox97/movies_etl/blob/main/PNGS-Deliverable%204/importing_rows.png)
 
-* Movies DataFrame Row Count
+* Movies DataFrame Row Count Query
 
 ![Deliverable4B](https://github.com/chrisknox97/movies_etl/blob/main/PNGS-Deliverable%204/row_count_movies.png)
 
-* Movie Lens Ratings Row Count
+* Movie Lens Ratings Row Count Query
 
 ![Deliverable4C](https://github.com/chrisknox97/movies_etl/blob/main/PNGS-Deliverable%204/row_count_ratings.png)
 
