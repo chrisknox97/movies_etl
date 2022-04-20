@@ -28,7 +28,21 @@
 
 ![Deliverable1C](https://github.com/chrisknox97/movies_etl/blob/main/PNGS-%20Deliverable%201/ratings_df.png)
 
+The Python script written for this deliverable can be accessed [here] (https://github.com/chrisknox97/movies_etl/blob/main/Deliverable%20One/ETL_Function_Test.ipynb).
+
 ### Deliverable 2
+
+#### Completion of the second deliverable resulted in the Wiki movies DataFrame as well as a list of that DataFrame's columns, both of which are listed below:
+
+* Wiki Movies DataFrame
+
+![Deliverable2A](https://github.com/chrisknox97/movies_etl/blob/main/PNGS-%20Deliverable%202/wiki_movies_df.png)
+
+* Wiki Movies DataFrame Columns List
+
+![Deliverable2B](https://github.com/chrisknox97/movies_etl/blob/main/PNGS-%20Deliverable%202/wiki_movies_df_columns.png)
+
+The Python script written for this deliverable can be accessed [here] (https://github.com/chrisknox97/movies_etl/blob/main/Deliverable%20Two/ETL_Clean_Wiki_Movies.ipynb).
 
 ### Deliverable 3
 
